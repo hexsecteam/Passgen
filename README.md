@@ -7,7 +7,7 @@
  |_||_|___/_/\_\___/___\___|
 ```
 
-**passenger** is a Python tool built for **educational purposes** by **Hexec**.  
+**passgen** is a Python tool built for **educational purposes** by **Hexec**.  
 It runs perfectly on **Termux (Android)** and any Linux terminal.  
 
 The main purpose is to **generate custom wordlists** based on user-provided info (name, surname, nickname, team, date of birth, etc.).  
