@@ -81,7 +81,7 @@ Output:
 
 Add here a screenshot of the tool running in Termux:
 
-![passenger UI preview](Screenshot_20250819_163855_Termux.jpeg)
+![passenger UI preview](Screenshot_20250819_163855_Termux.jpg)
 
 *(replace `images/ui_preview.png` with the actual path of your screenshot in the repo)*
 
