@@ -25,11 +25,15 @@ It should only be used on your own accounts, systems, or in authorized security 
 ## 📲 Installation (Termux)
 
 ```bash
-pkg update -y && pkg install -y python
-pip install --upgrade pip rich
+pkg update -y && pkg upgrade -y && pkg install -y python git && \
+pip install rich && \
+export TERM=xterm-256color COLORTERM=truecolor
+```
+```bash
 git clone https://github.com/hexsecteam/Passgen.git
-cd Passgen
-python Passgen.py
+```
+```bash
+cd Passgen && python Passgen.py
 ```
 
 If colors/borders don’t show properly in Termux:
